@@ -10,16 +10,6 @@ using System.Xml;
 using System.Xml.Serialization;
 using System.Runtime.Serialization;
 
-[Serializable]
-public struct Person
-{
-    public string secondName;
-    public string name;
-    public int[] marks;
-
-}
-
-
 
 class Lab4
 {
